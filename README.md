@@ -1,14 +1,14 @@
 # devops-lifecycle
-##‎1. Fundamental DevOps Concepts
+## 1. Fundamental DevOps Concepts
 DevOps is a practice whose aim is to bring together developers (who write code) and operations teams to build, test, and release software faster and more reliably.
 ‎
-‎Core principles of DevOps 
+## ‎Core principles of DevOps
 Automation – Automate tasks like testing, building, and deployment in DevOps to speed up software releases and delivery.
 Collaboration – DevOps teams work closely together, share responsibilities, and communicate openly to improve working efficiency.
 Continuous Improvement – Encourage regular feedback loops from the team and customer.
 ‎
 ‎
-##2. DevOps Lifecycle
+## 2. DevOps Lifecycle
 - Planning – Requirements are defined, goals are set, and tasks are prioritized for what software or application needs to be built.
 - Development – Write the code for the application or system features.
 - ‎Building – Compile the code and prepare it for use in a usable format, then run automated builds.
